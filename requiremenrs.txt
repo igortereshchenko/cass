@@ -1,0 +1,5 @@
+cassandra-driver==3.24.0
+click==7.1.2
+dse-driver==2.11.1
+geomet==0.1.2
+six==1.15.0
